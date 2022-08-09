@@ -30,7 +30,7 @@ CCVar@ g_StartMoney;
 //fall back for map_script
 const int MaxMoney = 16000;
 const int MoneyPerScore = 10;
-const int StartMoney = 0;
+const int StartMoney = 16000;
 
 bool FirstArgChecker( const CCommand@ args )
 {
